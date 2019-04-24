@@ -6,7 +6,7 @@ import pandas as pd
 
 try:
     vanity = str(input()) #example input https://steamcommunity.com/id/aashaBiceps, enter the text after the 'id/',i.e in this case enter aashaBiceps
-    key = 'CDB0C25EF9CF6CC515B0731EDD678129'
+    key = '' #your steam api key
 
 
     api = WebAPI(key,auto_load_interfaces=True)
