@@ -8,3 +8,4 @@
 - Python 3.5 or higher
 - Steam ( pip install -u steam)
 - Pandas (pip install -u pandas)
+- OpenPyxl (pip install -u openpyxl)
